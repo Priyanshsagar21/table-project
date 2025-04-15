@@ -8,6 +8,7 @@ const App = () => {
     { id: 3, name: 'Chines Garden', Address: '123 Devla Gait, Savarkundla', Passcode: '364515', Rating: '4.2' },
     { id: 4, name: 'South Fusion', Address: '567 Mahuva Road, Savarkundla', Passcode: '364515', Rating: '4.5' },
     { id: 5, name: 'Kathiyavadi Taste', Address: '987 Bypass, Amreli', Passcode: '365601', Rating: '4.0' },
+    { id: 6, name: 'Kathiyavadi Taste', Address: '987 Bypass, Amreli', Passcode: '365601', Rating: '4.0' },
   ];
 
   return (
